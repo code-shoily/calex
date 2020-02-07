@@ -1,6 +1,6 @@
 # Calex
 
-**TODO: Add description**
+Calex is an Elixir library for calendar management. It let's you create interrelated tasks and notifies you when the due date is near.
 
 ## Installation
 
